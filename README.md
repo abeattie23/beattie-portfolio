@@ -1,7 +1,4 @@
-# beattie-portfolio
-Mapping portfolio for Alice Beattie, CMU 
-
-## About me
+## About me - Alice Beattie
 
 I am a Masters candidate in Public Policy and Management, planning to graduate in May 2020.  This website is a response to an Advanced Graphical Information Systems class and will serve as a portfolio of projects, ideas, and works-in-progress using ArcGIS Pro, Google Maps, and other open source or low-cost mapping softwares.
 
