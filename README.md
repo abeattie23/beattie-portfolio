@@ -1,8 +1,8 @@
 ## About me - Alice Beattie
 
-I am a Masters candidate in Public Policy and Management, planning to graduate in May 2020.  This website is a response to an Advanced Graphical Information Systems class and will serve as a portfolio of projects, ideas, and works-in-progress using ArcGIS Pro, Google Maps, and other open source or low-cost mapping softwares.
+I am a Masters candidate in Public Policy and Management, planning to graduate in May 2020.  This website is a response to an Advanced Geographical Information Systems class and will serve as a portfolio of projects, ideas, and works-in-progress using ArcGIS Pro, Google Maps, and other open source or low-cost mapping softwares.
 
-My interests include climate policy, transportation policy, technology in government, gardening, shape note singing, hiking and running.
+My interests include climate policy, transportation policy, technology in government, gardening, shape note singing, hiking, saying hello to dogs on the street, cooking experiments, and running.
 
 ## What I hope to learn
 
