@@ -22,4 +22,4 @@ Created using ArcGIS Pro, this custom map style is suitable for low-precision ma
 ### Welcome to Pittsburgh Bike Resource Map
 Using publicly available data, I worked with a group to create a simple dashboard which shows bike lanes and routes, Healthy Ride bike share stations, and locations of interest to help orient new residents to the possibilities of fun cycling in the city of Pittsburgh.
 
-[Bike Resource Map](phttps://carnegiemellon.maps.arcgis.com/apps/opsdashboard/index.html#/dd09288d460f4101aa1dd2d09deac991)
+[Bike Resource Map](https://carnegiemellon.maps.arcgis.com/apps/opsdashboard/index.html#/dd09288d460f4101aa1dd2d09deac991)
