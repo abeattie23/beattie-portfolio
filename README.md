@@ -26,7 +26,7 @@ Using publicly available data, I worked with a group to create a simple dashboar
 
 ## Additional Skills
 In addition, I worked with:
-*[Mapbox](https://www.mapbox.com/)
-*[Kepler](https://kepler.gl/)
-*[Google Maps Styling Wizard](https://mapstyle.withgoogle.com/)
+* [Mapbox](https://www.mapbox.com/)
+* [Kepler](https://kepler.gl/)
+* [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/)
 
