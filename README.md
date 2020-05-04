@@ -25,7 +25,7 @@ Using publicly available data, I worked with a group to create a simple dashboar
 [Bike Resource Map](https://carnegiemellon.maps.arcgis.com/apps/opsdashboard/index.html#/dd09288d460f4101aa1dd2d09deac991)
 
 #### Dashboard Excerpt
-[Dashboard Excerpt](https://github.com/abeattie23/beattie-portfolio/edit/master/map_preview.PNG)
+![Dashboard Excerpt](https://github.com/abeattie23/beattie-portfolio/edit/master/map_preview.PNG)
 
 ## Additional Skills
 In addition, I worked with:
